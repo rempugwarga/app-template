@@ -1,0 +1,28 @@
+:root {
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0;
+  padding: 2rem;
+}
+
+main {
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid currentColor;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+}
+
+button:hover {
+  opacity: 0.8;
+}

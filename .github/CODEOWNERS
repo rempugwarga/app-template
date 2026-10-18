@@ -1,0 +1,7 @@
+# Ownership: setelah tim aplikasi meng-clone template ini, ganti owner ke tim Anda.
+# Template dipelihara Platform Engineering (@rempugwarga/platform-engineering).
+
+*                   @rempugwarga/platform-engineering
+
+/.github/           @rempugwarga/platform-engineering
+/rsbuild.config.ts  @rempugwarga/platform-engineering

@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# Environment & secrets (hanya .env.example yang boleh di-commit)
+.env
+.env.*
+!.env.example
+
+# Tooling
+coverage
+.DS_Store
+*.log
