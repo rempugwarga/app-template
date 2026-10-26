@@ -11,7 +11,7 @@
         "react-dom": "^19.3.1",
       },
       "devDependencies": {
-        "@rsbuild/core": "^2.1.4",
+        "@rsbuild/core": "^2.2.14",
         "@rsbuild/plugin-react": "^2.1.0",
         "@rstest/core": "^0.12.3",
         "@types/node": "^26.6.5",
@@ -32,7 +32,7 @@
 
     "@rempugwarga/design-system": ["@rempugwarga/design-system@0.1.2", "", { "peerDependencies": { "react": ">=16.9.0", "react-dom": ">=16.9.0" } }, "sha512-fRJOoe0cSc9M99+dpkSF+Dvz3wtIsQgiJYK67HiYdp39U74Urk75NslOUUK5BEIlZ+L3LoM1qRdIhm57IKXgtQ=="],
 
-    "@rsbuild/core": ["@rsbuild/core@2.2.13", "", { "dependencies": { "@rspack/core": "~2.2.9", "@swc/helpers": "^0.5.23" }, "peerDependencies": { "core-js": ">= 3.0.0" }, "optionalPeers": ["core-js"], "bin": { "rsbuild": "./bin/rsbuild.js" } }, "sha512-UDSDrokgG70tmx+0bz9kuc64SkPQ5A1/Zhqsp8pD0L3Cko/xEnukAbrjouGihUTk55imhC4zx62DnQN/1VJ+GQ=="],
+    "@rsbuild/core": ["@rsbuild/core@2.2.14", "", { "dependencies": { "@rspack/core": "~2.2.9", "@swc/helpers": "^0.5.23" }, "peerDependencies": { "core-js": ">= 3.0.0" }, "optionalPeers": ["core-js"], "bin": { "rsbuild": "./bin/rsbuild.js" } }, "sha512-HNzuviBQuaPn24ltmlW0BwwB9YclY9sFz847Qyh8CeTtLLkfznmkSMeXeUHSTcZC22gveRKkut7iLjI1HPzCjw=="],
 
     "@rsbuild/plugin-react": ["@rsbuild/plugin-react@2.1.1", "", { "dependencies": { "@rspack/plugin-react-refresh": "^2.0.2", "react-refresh": "^0.19.0" }, "peerDependencies": { "@rsbuild/core": "^2.0.0" }, "optionalPeers": ["@rsbuild/core"] }, "sha512-tLtUedsRtTLS6M4VtwzI6aakFLOFdgl9Sh1ZNBWvxb0Te3EnHrppaE7UiYEmDUXQDJ50gfr6yyirtxY5N6moyg=="],
 
