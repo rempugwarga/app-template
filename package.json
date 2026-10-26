@@ -14,7 +14,7 @@
   },
   "packageManager": "bun@1.4.2",
   "dependencies": {
-    "@rempugwarga/design-system": "^0.1.0",
+    "@rempugwarga/design-system": "^0.1.5",
     "oidc-client-ts": "^3.3.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
