@@ -5,7 +5,7 @@
     "": {
       "name": "my-app",
       "dependencies": {
-        "@rempugwarga/design-system": "^0.1.0",
+        "@rempugwarga/design-system": "^0.1.5",
         "oidc-client-ts": "^3.3.0",
         "react": "^19.3.1",
         "react-dom": "^19.3.1",
@@ -30,7 +30,7 @@
 
     "@napi-rs/wasm-runtime": ["@napi-rs/wasm-runtime@1.1.6", "", { "dependencies": { "@tybys/wasm-util": "^0.10.3" }, "peerDependencies": { "@emnapi/core": "^1.7.1", "@emnapi/runtime": "^1.7.1" } }, "sha512-ZLv/JdUfkvOy9eCnnBaGfiO+XimbjebAeO+MRQqD/B+FR1tnRN0tpKSJHRbE8sFfS6aqsXZ67TQjfwfsxULVbg=="],
 
-    "@rempugwarga/design-system": ["@rempugwarga/design-system@0.1.2", "", { "peerDependencies": { "react": ">=16.9.0", "react-dom": ">=16.9.0" } }, "sha512-fRJOoe0cSc9M99+dpkSF+Dvz3wtIsQgiJYK67HiYdp39U74Urk75NslOUUK5BEIlZ+L3LoM1qRdIhm57IKXgtQ=="],
+    "@rempugwarga/design-system": ["@rempugwarga/design-system@0.1.5", "", { "peerDependencies": { "react": ">=16.9.0", "react-dom": ">=16.9.0" } }, "sha512-a4nF/F5kwkQuaY+65gKrMoeeTqsC/b8Rlt/xrjmq15SdPBcmZXrzccDbLdPrlTyh1L/EtJMuqUjgleOzpxtRpA=="],
 
     "@rsbuild/core": ["@rsbuild/core@2.2.13", "", { "dependencies": { "@rspack/core": "~2.2.9", "@swc/helpers": "^0.5.23" }, "peerDependencies": { "core-js": ">= 3.0.0" }, "optionalPeers": ["core-js"], "bin": { "rsbuild": "./bin/rsbuild.js" } }, "sha512-UDSDrokgG70tmx+0bz9kuc64SkPQ5A1/Zhqsp8pD0L3Cko/xEnukAbrjouGihUTk55imhC4zx62DnQN/1VJ+GQ=="],
 
